@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-biolerplate-with-notifications",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": ""
+}
